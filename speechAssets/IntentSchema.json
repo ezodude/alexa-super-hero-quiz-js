@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "CaptureAnswer",
+      "slots": [
+        {
+          "name": "QuestionAnswer",
+          "type": "QUESTION_ANSWERS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

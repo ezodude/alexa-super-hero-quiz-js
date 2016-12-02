@@ -1,0 +1,15 @@
+User workshops to determine phrases
+
+Use google analytics phrases
+
+Graph database for chat flow?
+
+No voice Analytics (what phrases are being used)
+
+Introducing machine learning to create utterances for scenarios.
+
+Upcoming feature:
+  Dynamically updating the voice model.
+  Push notifications.
+
+// Creating good skills is not easy.

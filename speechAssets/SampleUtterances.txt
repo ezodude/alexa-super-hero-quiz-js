@@ -1,0 +1,3 @@
+CaptureAnswer {QuestionAnswer}
+CaptureAnswer the answer is {QuestionAnswer}
+CaptureAnswer it is {QuestionAnswer}
